@@ -1,5 +1,6 @@
 # day-2-task-zen-class
 
+1.Diffrent B/W the Window and Document objects
 WINDOW OBJECTS
 The window is the first thing that gets loaded into the browser.This window object has the majority of the properties like length, innerWidth,innerHeight,name,if it has been closed,its parents,and more.
 
